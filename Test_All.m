@@ -1,0 +1,116 @@
+
+%% Database
+% Database_Name='FingerPrint1';
+% Database_Name='FingerPrint2';
+%
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_01_04';
+%Test_Linear_Classifier_Learn_Fingerprint_Parameters
+Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+% Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_02_04';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_03_04';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_01_01';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_01_02';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_01_03';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+%%%%
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_02_01';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_02_02';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_02_03';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+%%%
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_03_01';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_03_02';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
+close all;
+clc;
+clear;
+Database_Name='FingerPrint_Synthetic_03_03';
+% Test_Linear_Classifier_Learn_Fingerprint_Parameters
+% Test_Dunn_Index_Minimisation_Learn_Fingerprint_Parameters
+Test_Hamming_Minimisation_Learn_Fingerprint_Parameters
+%Build_Surface_Classify_Database_Fingerprint
+
